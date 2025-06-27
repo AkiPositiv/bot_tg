@@ -1,0 +1,77 @@
+2025-06-22 15:07:43 - config.database - INFO - Database initialized successfully
+2025-06-22 15:07:43 - __main__ - INFO - Database initialized successfully
+2025-06-22 15:07:43 - __main__ - INFO - Starting RPG Bot...
+2025-06-22 15:07:43 - aiogram.dispatcher - INFO - Start polling
+2025-06-22 15:07:43 - aiogram.dispatcher - INFO - Run polling for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-22 15:21:00 - aiogram.event - INFO - Update id=50703452 is handled. Duration 406 ms by bot id=1730744154
+2025-06-22 15:21:03 - aiogram.event - INFO - Update id=50703453 is handled. Duration 393 ms by bot id=1730744154
+2025-06-22 15:21:09 - aiogram.event - INFO - Update id=50703454 is handled. Duration 206 ms by bot id=1730744154
+2025-06-22 15:21:12 - aiogram.event - INFO - Update id=50703455 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:21:14 - aiogram.event - INFO - Update id=50703456 is handled. Duration 276 ms by bot id=1730744154
+2025-06-22 15:21:17 - services.user_service - INFO - Created new user: Aki (ID: 1075491040)
+2025-06-22 15:21:18 - aiogram.event - INFO - Update id=50703457 is handled. Duration 324 ms by bot id=1730744154
+2025-06-22 15:21:20 - aiogram.event - INFO - Update id=50703458 is handled. Duration 507 ms by bot id=1730744154
+2025-06-22 15:21:21 - aiogram.event - INFO - Update id=50703459 is handled. Duration 387 ms by bot id=1730744154
+2025-06-22 15:21:23 - aiogram.event - INFO - Update id=50703460 is handled. Duration 391 ms by bot id=1730744154
+2025-06-22 15:21:24 - aiogram.event - INFO - Update id=50703461 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:21:29 - aiogram.event - INFO - Update id=50703462 is handled. Duration 389 ms by bot id=1730744154
+2025-06-22 15:21:32 - aiogram.event - INFO - Update id=50703463 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:21:41 - aiogram.event - INFO - Update id=50703464 is handled. Duration 293 ms by bot id=1730744154
+2025-06-22 15:21:43 - aiogram.event - INFO - Update id=50703465 is handled. Duration 357 ms by bot id=1730744154
+2025-06-22 15:21:46 - aiogram.event - INFO - Update id=50703466 is handled. Duration 539 ms by bot id=1730744154
+2025-06-22 15:21:58 - aiogram.event - INFO - Update id=50703467 is not handled. Duration 4 ms by bot id=1730744154
+2025-06-22 15:22:05 - aiogram.event - INFO - Update id=50703468 is handled. Duration 350 ms by bot id=1730744154
+2025-06-22 15:22:07 - aiogram.event - INFO - Update id=50703469 is handled. Duration 344 ms by bot id=1730744154
+2025-06-22 15:22:09 - aiogram.event - INFO - Update id=50703470 is handled. Duration 284 ms by bot id=1730744154
+2025-06-22 15:22:10 - aiogram.event - INFO - Update id=50703471 is handled. Duration 154 ms by bot id=1730744154
+2025-06-22 15:22:15 - aiogram.event - INFO - Update id=50703472 is handled. Duration 291 ms by bot id=1730744154
+2025-06-22 15:22:16 - aiogram.event - INFO - Update id=50703473 is handled. Duration 302 ms by bot id=1730744154
+2025-06-22 15:22:24 - aiogram.event - INFO - Update id=50703474 is handled. Duration 332 ms by bot id=1730744154
+2025-06-22 15:22:28 - aiogram.event - INFO - Update id=50703475 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:22:29 - aiogram.event - INFO - Update id=50703476 is handled. Duration 151 ms by bot id=1730744154
+2025-06-22 15:22:33 - aiogram.event - INFO - Update id=50703477 is handled. Duration 186 ms by bot id=1730744154
+2025-06-22 15:22:35 - aiogram.event - INFO - Update id=50703478 is handled. Duration 189 ms by bot id=1730744154
+2025-06-22 15:22:37 - aiogram.event - INFO - Update id=50703479 is handled. Duration 157 ms by bot id=1730744154
+2025-06-22 15:22:41 - aiogram.event - INFO - Update id=50703480 is handled. Duration 310 ms by bot id=1730744154
+2025-06-22 15:22:53 - aiogram.event - INFO - Update id=50703481 is handled. Duration 469 ms by bot id=1730744154
+2025-06-22 15:22:54 - aiogram.event - INFO - Update id=50703482 is handled. Duration 274 ms by bot id=1730744154
+2025-06-22 15:22:55 - aiogram.event - INFO - Update id=50703483 is handled. Duration 326 ms by bot id=1730744154
+2025-06-22 15:26:10 - aiogram.event - INFO - Update id=50703484 is handled. Duration 170 ms by bot id=1730744154
+2025-06-22 15:26:11 - aiogram.event - INFO - Update id=50703485 is handled. Duration 346 ms by bot id=1730744154
+2025-06-22 15:26:16 - aiogram.event - INFO - Update id=50703486 is handled. Duration 187 ms by bot id=1730744154
+2025-06-22 15:26:19 - aiogram.event - INFO - Update id=50703487 is handled. Duration 481 ms by bot id=1730744154
+2025-06-22 15:26:20 - aiogram.event - INFO - Update id=50703488 is handled. Duration 267 ms by bot id=1730744154
+2025-06-22 15:26:25 - services.user_service - INFO - Created new user: Рубик (ID: 5398877171)
+2025-06-22 15:26:26 - aiogram.event - INFO - Update id=50703489 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:26:47 - aiogram.event - INFO - Update id=50703490 is handled. Duration 212 ms by bot id=1730744154
+2025-06-22 15:26:50 - aiogram.event - INFO - Update id=50703491 is handled. Duration 290 ms by bot id=1730744154
+2025-06-22 15:26:53 - aiogram.event - INFO - Update id=50703492 is handled. Duration 333 ms by bot id=1730744154
+2025-06-22 15:26:55 - aiogram.event - INFO - Update id=50703493 is handled. Duration 437 ms by bot id=1730744154
+2025-06-22 15:26:56 - aiogram.event - INFO - Update id=50703494 is handled. Duration 503 ms by bot id=1730744154
+2025-06-22 15:26:58 - aiogram.event - INFO - Update id=50703495 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:27:01 - aiogram.event - INFO - Update id=50703496 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:27:03 - aiogram.event - INFO - Update id=50703497 is handled. Duration 307 ms by bot id=1730744154
+2025-06-22 15:27:08 - aiogram.event - INFO - Update id=50703498 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:27:10 - aiogram.event - INFO - Update id=50703499 is handled. Duration 292 ms by bot id=1730744154
+2025-06-22 15:27:11 - aiogram.event - INFO - Update id=50703500 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:27:13 - aiogram.event - INFO - Update id=50703501 is handled. Duration 362 ms by bot id=1730744154
+2025-06-22 15:27:15 - aiogram.event - INFO - Update id=50703502 is handled. Duration 306 ms by bot id=1730744154
+2025-06-22 15:27:19 - services.battle_service - INFO - Battle 1 finished. Winner: Aki
+2025-06-22 15:27:19 - aiogram.event - INFO - Update id=50703503 is handled. Duration 417 ms by bot id=1730744154
+2025-06-22 15:27:28 - aiogram.event - INFO - Update id=50703504 is handled. Duration 215 ms by bot id=1730744154
+2025-06-22 15:27:30 - aiogram.event - INFO - Update id=50703505 is handled. Duration 376 ms by bot id=1730744154
+2025-06-22 15:27:31 - aiogram.event - INFO - Update id=50703506 is handled. Duration 292 ms by bot id=1730744154
+2025-06-22 15:27:33 - aiogram.event - INFO - Update id=50703507 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:27:35 - aiogram.event - INFO - Update id=50703508 is handled. Duration 300 ms by bot id=1730744154
+2025-06-22 15:27:36 - aiogram.event - INFO - Update id=50703509 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 15:27:42 - aiogram.event - INFO - Update id=50703510 is handled. Duration 381 ms by bot id=1730744154
+2025-06-22 15:31:25 - aiogram.event - INFO - Update id=50703511 is handled. Duration 525 ms by bot id=1730744154
+2025-06-22 15:31:27 - aiogram.event - INFO - Update id=50703512 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:31:32 - aiogram.event - INFO - Update id=50703513 is handled. Duration 317 ms by bot id=1730744154
+2025-06-22 15:31:34 - aiogram.event - INFO - Update id=50703514 is handled. Duration 389 ms by bot id=1730744154
+2025-06-22 15:31:35 - aiogram.event - INFO - Update id=50703515 is handled. Duration 289 ms by bot id=1730744154
+2025-06-22 15:31:37 - aiogram.event - INFO - Update id=50703516 is handled. Duration 277 ms by bot id=1730744154
+2025-06-22 15:31:37 - aiogram.event - INFO - Update id=50703517 is handled. Duration 280 ms by bot id=1730744154
+2025-06-22 15:31:38 - aiogram.event - INFO - Update id=50703518 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:31:39 - aiogram.event - INFO - Update id=50703519 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 15:31:41 - aiogram.event - INFO - Update id=50703520 is handled. Duration 522 ms by bot id=1730744154
