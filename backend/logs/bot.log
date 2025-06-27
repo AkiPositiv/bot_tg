@@ -1,0 +1,577 @@
+2025-06-21 16:53:59 - config.database - INFO - Database initialized successfully
+2025-06-21 16:53:59 - __main__ - INFO - Database initialized successfully
+2025-06-21 16:53:59 - __main__ - INFO - Starting RPG Bot...
+2025-06-21 16:53:59 - aiogram.dispatcher - INFO - Start polling
+2025-06-21 16:54:00 - aiogram.dispatcher - INFO - Run polling for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-21 16:54:06 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-06-21 16:54:06 - aiogram.dispatcher - INFO - Polling stopped for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-21 16:54:06 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-21 16:54:17 - config.database - INFO - Database initialized successfully
+2025-06-21 16:54:17 - __main__ - INFO - Database initialized successfully
+2025-06-21 16:54:17 - __main__ - INFO - Starting RPG Bot...
+2025-06-21 16:54:17 - aiogram.dispatcher - INFO - Start polling
+2025-06-21 16:54:17 - aiogram.dispatcher - INFO - Run polling for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-22 15:07:43 - config.database - INFO - Database initialized successfully
+2025-06-22 15:07:43 - __main__ - INFO - Database initialized successfully
+2025-06-22 15:07:43 - __main__ - INFO - Starting RPG Bot...
+2025-06-22 15:07:43 - aiogram.dispatcher - INFO - Start polling
+2025-06-22 15:07:43 - aiogram.dispatcher - INFO - Run polling for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-22 15:21:00 - aiogram.event - INFO - Update id=50703452 is handled. Duration 406 ms by bot id=1730744154
+2025-06-22 15:21:03 - aiogram.event - INFO - Update id=50703453 is handled. Duration 393 ms by bot id=1730744154
+2025-06-22 15:21:09 - aiogram.event - INFO - Update id=50703454 is handled. Duration 206 ms by bot id=1730744154
+2025-06-22 15:21:12 - aiogram.event - INFO - Update id=50703455 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:21:14 - aiogram.event - INFO - Update id=50703456 is handled. Duration 276 ms by bot id=1730744154
+2025-06-22 15:21:17 - services.user_service - INFO - Created new user: Aki (ID: 1075491040)
+2025-06-22 15:21:18 - aiogram.event - INFO - Update id=50703457 is handled. Duration 324 ms by bot id=1730744154
+2025-06-22 15:21:20 - aiogram.event - INFO - Update id=50703458 is handled. Duration 507 ms by bot id=1730744154
+2025-06-22 15:21:21 - aiogram.event - INFO - Update id=50703459 is handled. Duration 387 ms by bot id=1730744154
+2025-06-22 15:21:23 - aiogram.event - INFO - Update id=50703460 is handled. Duration 391 ms by bot id=1730744154
+2025-06-22 15:21:24 - aiogram.event - INFO - Update id=50703461 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:21:29 - aiogram.event - INFO - Update id=50703462 is handled. Duration 389 ms by bot id=1730744154
+2025-06-22 15:21:32 - aiogram.event - INFO - Update id=50703463 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:21:41 - aiogram.event - INFO - Update id=50703464 is handled. Duration 293 ms by bot id=1730744154
+2025-06-22 15:21:43 - aiogram.event - INFO - Update id=50703465 is handled. Duration 357 ms by bot id=1730744154
+2025-06-22 15:21:46 - aiogram.event - INFO - Update id=50703466 is handled. Duration 539 ms by bot id=1730744154
+2025-06-22 15:21:58 - aiogram.event - INFO - Update id=50703467 is not handled. Duration 4 ms by bot id=1730744154
+2025-06-22 15:22:05 - aiogram.event - INFO - Update id=50703468 is handled. Duration 350 ms by bot id=1730744154
+2025-06-22 15:22:07 - aiogram.event - INFO - Update id=50703469 is handled. Duration 344 ms by bot id=1730744154
+2025-06-22 15:22:09 - aiogram.event - INFO - Update id=50703470 is handled. Duration 284 ms by bot id=1730744154
+2025-06-22 15:22:10 - aiogram.event - INFO - Update id=50703471 is handled. Duration 154 ms by bot id=1730744154
+2025-06-22 15:22:15 - aiogram.event - INFO - Update id=50703472 is handled. Duration 291 ms by bot id=1730744154
+2025-06-22 15:22:16 - aiogram.event - INFO - Update id=50703473 is handled. Duration 302 ms by bot id=1730744154
+2025-06-22 15:22:24 - aiogram.event - INFO - Update id=50703474 is handled. Duration 332 ms by bot id=1730744154
+2025-06-22 15:22:28 - aiogram.event - INFO - Update id=50703475 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:22:29 - aiogram.event - INFO - Update id=50703476 is handled. Duration 151 ms by bot id=1730744154
+2025-06-22 15:22:33 - aiogram.event - INFO - Update id=50703477 is handled. Duration 186 ms by bot id=1730744154
+2025-06-22 15:22:35 - aiogram.event - INFO - Update id=50703478 is handled. Duration 189 ms by bot id=1730744154
+2025-06-22 15:22:37 - aiogram.event - INFO - Update id=50703479 is handled. Duration 157 ms by bot id=1730744154
+2025-06-22 15:22:41 - aiogram.event - INFO - Update id=50703480 is handled. Duration 310 ms by bot id=1730744154
+2025-06-22 15:22:53 - aiogram.event - INFO - Update id=50703481 is handled. Duration 469 ms by bot id=1730744154
+2025-06-22 15:22:54 - aiogram.event - INFO - Update id=50703482 is handled. Duration 274 ms by bot id=1730744154
+2025-06-22 15:22:55 - aiogram.event - INFO - Update id=50703483 is handled. Duration 326 ms by bot id=1730744154
+2025-06-22 15:26:10 - aiogram.event - INFO - Update id=50703484 is handled. Duration 170 ms by bot id=1730744154
+2025-06-22 15:26:11 - aiogram.event - INFO - Update id=50703485 is handled. Duration 346 ms by bot id=1730744154
+2025-06-22 15:26:16 - aiogram.event - INFO - Update id=50703486 is handled. Duration 187 ms by bot id=1730744154
+2025-06-22 15:26:19 - aiogram.event - INFO - Update id=50703487 is handled. Duration 481 ms by bot id=1730744154
+2025-06-22 15:26:20 - aiogram.event - INFO - Update id=50703488 is handled. Duration 267 ms by bot id=1730744154
+2025-06-22 15:26:25 - services.user_service - INFO - Created new user: Рубик (ID: 5398877171)
+2025-06-22 15:26:26 - aiogram.event - INFO - Update id=50703489 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:26:47 - aiogram.event - INFO - Update id=50703490 is handled. Duration 212 ms by bot id=1730744154
+2025-06-22 15:26:50 - aiogram.event - INFO - Update id=50703491 is handled. Duration 290 ms by bot id=1730744154
+2025-06-22 15:26:53 - aiogram.event - INFO - Update id=50703492 is handled. Duration 333 ms by bot id=1730744154
+2025-06-22 15:26:55 - aiogram.event - INFO - Update id=50703493 is handled. Duration 437 ms by bot id=1730744154
+2025-06-22 15:26:56 - aiogram.event - INFO - Update id=50703494 is handled. Duration 503 ms by bot id=1730744154
+2025-06-22 15:26:58 - aiogram.event - INFO - Update id=50703495 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:27:01 - aiogram.event - INFO - Update id=50703496 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:27:03 - aiogram.event - INFO - Update id=50703497 is handled. Duration 307 ms by bot id=1730744154
+2025-06-22 15:27:08 - aiogram.event - INFO - Update id=50703498 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 15:27:10 - aiogram.event - INFO - Update id=50703499 is handled. Duration 292 ms by bot id=1730744154
+2025-06-22 15:27:11 - aiogram.event - INFO - Update id=50703500 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:27:13 - aiogram.event - INFO - Update id=50703501 is handled. Duration 362 ms by bot id=1730744154
+2025-06-22 15:27:15 - aiogram.event - INFO - Update id=50703502 is handled. Duration 306 ms by bot id=1730744154
+2025-06-22 15:27:19 - services.battle_service - INFO - Battle 1 finished. Winner: Aki
+2025-06-22 15:27:19 - aiogram.event - INFO - Update id=50703503 is handled. Duration 417 ms by bot id=1730744154
+2025-06-22 15:27:28 - aiogram.event - INFO - Update id=50703504 is handled. Duration 215 ms by bot id=1730744154
+2025-06-22 15:27:30 - aiogram.event - INFO - Update id=50703505 is handled. Duration 376 ms by bot id=1730744154
+2025-06-22 15:27:31 - aiogram.event - INFO - Update id=50703506 is handled. Duration 292 ms by bot id=1730744154
+2025-06-22 15:27:33 - aiogram.event - INFO - Update id=50703507 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 15:27:35 - aiogram.event - INFO - Update id=50703508 is handled. Duration 300 ms by bot id=1730744154
+2025-06-22 15:27:36 - aiogram.event - INFO - Update id=50703509 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 15:27:42 - aiogram.event - INFO - Update id=50703510 is handled. Duration 381 ms by bot id=1730744154
+2025-06-22 15:31:25 - aiogram.event - INFO - Update id=50703511 is handled. Duration 525 ms by bot id=1730744154
+2025-06-22 15:31:27 - aiogram.event - INFO - Update id=50703512 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 15:31:32 - aiogram.event - INFO - Update id=50703513 is handled. Duration 317 ms by bot id=1730744154
+2025-06-22 15:31:34 - aiogram.event - INFO - Update id=50703514 is handled. Duration 389 ms by bot id=1730744154
+2025-06-22 15:31:35 - aiogram.event - INFO - Update id=50703515 is handled. Duration 289 ms by bot id=1730744154
+2025-06-22 15:31:37 - aiogram.event - INFO - Update id=50703516 is handled. Duration 277 ms by bot id=1730744154
+2025-06-22 15:31:37 - aiogram.event - INFO - Update id=50703517 is handled. Duration 280 ms by bot id=1730744154
+2025-06-22 15:31:38 - aiogram.event - INFO - Update id=50703518 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 15:31:39 - aiogram.event - INFO - Update id=50703519 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 15:31:41 - aiogram.event - INFO - Update id=50703520 is handled. Duration 522 ms by bot id=1730744154
+2025-06-22 16:14:35 - config.database - INFO - Database initialized successfully
+2025-06-22 16:14:35 - __main__ - INFO - Database initialized successfully
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Added job "KingdomWarScheduler.process_scheduled_wars" to job store "default"
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Added job "KingdomWarScheduler.process_scheduled_wars" to job store "default"
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Added job "KingdomWarScheduler.process_scheduled_wars" to job store "default"
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Added job "KingdomWarScheduler.schedule_tomorrow_wars" to job store "default"
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Added job "KingdomWarScheduler.schedule_today_wars" to job store "default"
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-22 16:14:35 - war_scheduler - INFO - Kingdom War Scheduler started
+2025-06-22 16:14:35 - __main__ - INFO - Kingdom War Scheduler started
+2025-06-22 16:14:35 - __main__ - INFO - Starting RPG Bot v3.0...
+2025-06-22 16:14:35 - aiogram.dispatcher - INFO - Start polling
+2025-06-22 16:14:35 - apscheduler.scheduler - INFO - Removed job schedule_today_wars
+2025-06-22 16:14:35 - apscheduler.executors.default - INFO - Running job "KingdomWarScheduler.schedule_today_wars (trigger: date[2025-06-22 16:14:35 UTC], next run at: 2025-06-22 16:14:35 UTC)" (scheduled at 2025-06-22 16:14:35.675843+00:00)
+2025-06-22 16:14:35 - services.kingdom_war_service - INFO - Scheduled wars for 2025-06-22
+2025-06-22 16:14:35 - war_scheduler - INFO - Scheduled wars for today
+2025-06-22 16:14:35 - apscheduler.executors.default - INFO - Job "KingdomWarScheduler.schedule_today_wars (trigger: date[2025-06-22 16:14:35 UTC], next run at: 2025-06-22 16:14:35 UTC)" executed successfully
+2025-06-22 16:14:36 - aiogram.dispatcher - INFO - Run polling for bot @Aki_Test_tttttttBot id=1730744154 - 'testttttttttttt'
+2025-06-22 16:14:36 - aiogram.event - INFO - Update id=50703521 is not handled. Duration 0 ms by bot id=1730744154
+2025-06-22 16:14:36 - aiogram.event - INFO - Update id=50703523 is handled. Duration 404 ms by bot id=1730744154
+2025-06-22 16:14:53 - aiogram.event - INFO - Update id=50703524 is handled. Duration 369 ms by bot id=1730744154
+2025-06-22 16:14:54 - aiogram.event - INFO - Update id=50703525 is handled. Duration 326 ms by bot id=1730744154
+2025-06-22 16:14:55 - aiogram.event - INFO - Update id=50703526 is handled. Duration 195 ms by bot id=1730744154
+2025-06-22 16:15:00 - aiogram.event - INFO - Update id=50703527 is handled. Duration 284 ms by bot id=1730744154
+2025-06-22 16:15:02 - aiogram.event - INFO - Update id=50703528 is handled. Duration 368 ms by bot id=1730744154
+2025-06-22 16:15:04 - aiogram.event - INFO - Update id=50703529 is handled. Duration 463 ms by bot id=1730744154
+2025-06-22 16:15:06 - services.battle_service - INFO - Battle 2 finished. Winner: Aki
+2025-06-22 16:15:06 - aiogram.event - INFO - Update id=50703530 is handled. Duration 284 ms by bot id=1730744154
+2025-06-22 16:15:11 - aiogram.event - INFO - Update id=50703531 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 16:15:16 - aiogram.event - INFO - Update id=50703532 is handled. Duration 634 ms by bot id=1730744154
+2025-06-22 16:15:18 - aiogram.event - INFO - Update id=50703533 is handled. Duration 271 ms by bot id=1730744154
+2025-06-22 16:15:20 - aiogram.event - INFO - Update id=50703534 is handled. Duration 306 ms by bot id=1730744154
+2025-06-22 16:15:21 - aiogram.event - INFO - Update id=50703535 is handled. Duration 292 ms by bot id=1730744154
+2025-06-22 16:15:22 - aiogram.event - INFO - Update id=50703536 is handled. Duration 283 ms by bot id=1730744154
+2025-06-22 16:15:23 - services.interactive_battle_service - INFO - PvE encounter started: Player 5398877171 vs Слабый скелет
+2025-06-22 16:15:23 - aiogram.event - INFO - Update id=50703537 is handled. Duration 296 ms by bot id=1730744154
+2025-06-22 16:15:24 - aiogram.event - INFO - Update id=50703538 is handled. Duration 156 ms by bot id=1730744154
+2025-06-22 16:15:31 - aiogram.event - INFO - Update id=50703539 is not handled. Duration 27 ms by bot id=1730744154
+2025-06-22 16:15:31 - aiogram.event - ERROR - Cause exception while process update id=50703539 by bot id=1730744154
+KeyError: 'right_1'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'right_1'
+2025-06-22 16:15:34 - aiogram.event - INFO - Update id=50703540 is not handled. Duration 12 ms by bot id=1730744154
+2025-06-22 16:15:34 - aiogram.event - ERROR - Cause exception while process update id=50703540 by bot id=1730744154
+KeyError: 'center_1'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'center_1'
+2025-06-22 16:15:35 - aiogram.event - INFO - Update id=50703541 is not handled. Duration 9 ms by bot id=1730744154
+2025-06-22 16:15:35 - aiogram.event - ERROR - Cause exception while process update id=50703541 by bot id=1730744154
+KeyError: 'left_1'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'left_1'
+2025-06-22 16:16:11 - aiogram.event - INFO - Update id=50703542 is handled. Duration 265 ms by bot id=1730744154
+2025-06-22 16:16:13 - aiogram.event - INFO - Update id=50703543 is handled. Duration 386 ms by bot id=1730744154
+2025-06-22 16:16:15 - aiogram.event - INFO - Update id=50703544 is handled. Duration 479 ms by bot id=1730744154
+2025-06-22 16:16:18 - aiogram.event - INFO - Update id=50703545 is handled. Duration 450 ms by bot id=1730744154
+2025-06-22 16:16:21 - aiogram.event - INFO - Update id=50703546 is handled. Duration 308 ms by bot id=1730744154
+2025-06-22 16:16:22 - aiogram.event - INFO - Update id=50703547 is handled. Duration 136 ms by bot id=1730744154
+2025-06-22 16:16:25 - aiogram.event - INFO - Update id=50703548 is handled. Duration 278 ms by bot id=1730744154
+2025-06-22 16:16:27 - aiogram.event - INFO - Update id=50703549 is handled. Duration 275 ms by bot id=1730744154
+2025-06-22 16:16:28 - services.interactive_battle_service - INFO - PvE encounter started: Player 5398877171 vs Зомби-солдат
+2025-06-22 16:16:28 - aiogram.event - INFO - Update id=50703550 is handled. Duration 290 ms by bot id=1730744154
+2025-06-22 16:16:30 - aiogram.event - INFO - Update id=50703551 is handled. Duration 179 ms by bot id=1730744154
+2025-06-22 16:16:31 - aiogram.event - INFO - Update id=50703552 is not handled. Duration 10 ms by bot id=1730744154
+2025-06-22 16:16:31 - aiogram.event - ERROR - Cause exception while process update id=50703552 by bot id=1730744154
+KeyError: 'right_2'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'right_2'
+2025-06-22 16:16:33 - aiogram.event - INFO - Update id=50703553 is not handled. Duration 23 ms by bot id=1730744154
+2025-06-22 16:16:33 - aiogram.event - ERROR - Cause exception while process update id=50703553 by bot id=1730744154
+KeyError: 'center_2'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'center_2'
+2025-06-22 16:16:34 - aiogram.event - INFO - Update id=50703554 is not handled. Duration 11 ms by bot id=1730744154
+2025-06-22 16:16:34 - aiogram.event - ERROR - Cause exception while process update id=50703554 by bot id=1730744154
+KeyError: 'left_2'
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/middlewares/throttling.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/app/backend/handlers/battle.py", line 58, in attack_kingdom
+    kingdom_info = GameConstants.KINGDOMS[target_kingdom]
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'left_2'
+2025-06-22 16:27:05 - aiogram.event - INFO - Update id=50703555 is handled. Duration 200 ms by bot id=1730744154
+2025-06-22 16:27:12 - aiogram.event - INFO - Update id=50703556 is handled. Duration 129 ms by bot id=1730744154
+2025-06-22 16:27:15 - aiogram.event - INFO - Update id=50703557 is handled. Duration 136 ms by bot id=1730744154
+2025-06-22 16:55:09 - aiogram.event - INFO - Update id=50703558 is handled. Duration 390 ms by bot id=1730744154
+2025-06-22 16:55:11 - aiogram.event - INFO - Update id=50703559 is handled. Duration 314 ms by bot id=1730744154
+2025-06-22 16:55:16 - aiogram.event - INFO - Update id=50703560 is handled. Duration 279 ms by bot id=1730744154
+2025-06-22 16:55:18 - aiogram.event - INFO - Update id=50703561 is handled. Duration 312 ms by bot id=1730744154
+2025-06-22 16:55:19 - aiogram.event - INFO - Update id=50703562 is handled. Duration 271 ms by bot id=1730744154
+2025-06-22 16:55:20 - aiogram.event - INFO - Update id=50703563 is handled. Duration 277 ms by bot id=1730744154
+2025-06-22 16:55:22 - aiogram.event - INFO - Update id=50703564 is handled. Duration 282 ms by bot id=1730744154
+2025-06-22 16:55:23 - aiogram.event - INFO - Update id=50703565 is handled. Duration 433 ms by bot id=1730744154
+2025-06-22 16:55:24 - aiogram.event - INFO - Update id=50703566 is handled. Duration 211 ms by bot id=1730744154
+2025-06-22 16:55:27 - aiogram.event - INFO - Update id=50703567 is handled. Duration 298 ms by bot id=1730744154
+2025-06-22 16:55:28 - aiogram.event - INFO - Update id=50703568 is handled. Duration 302 ms by bot id=1730744154
+2025-06-22 16:55:33 - aiogram.event - INFO - Update id=50703569 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 16:55:36 - aiogram.event - INFO - Update id=50703570 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 16:55:37 - aiogram.event - INFO - Update id=50703571 is handled. Duration 294 ms by bot id=1730744154
+2025-06-22 16:55:40 - aiogram.event - INFO - Update id=50703572 is handled. Duration 355 ms by bot id=1730744154
+2025-06-22 16:55:51 - aiogram.event - INFO - Update id=50703573 is handled. Duration 158 ms by bot id=1730744154
+2025-06-22 16:55:54 - aiogram.event - INFO - Update id=50703574 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 16:55:57 - aiogram.event - INFO - Update id=50703575 is handled. Duration 287 ms by bot id=1730744154
+2025-06-22 16:55:58 - aiogram.event - INFO - Update id=50703576 is handled. Duration 274 ms by bot id=1730744154
+2025-06-22 16:55:59 - services.battle_service - INFO - Battle 3 finished. Winner: Aki
+2025-06-22 16:56:00 - aiogram.event - INFO - Update id=50703577 is handled. Duration 486 ms by bot id=1730744154
+2025-06-22 16:56:05 - aiogram.event - INFO - Update id=50703578 is handled. Duration 288 ms by bot id=1730744154
+2025-06-22 16:56:08 - aiogram.event - INFO - Update id=50703579 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 16:56:10 - aiogram.event - INFO - Update id=50703580 is handled. Duration 336 ms by bot id=1730744154
+2025-06-22 16:56:16 - aiogram.event - INFO - Update id=50703581 is handled. Duration 136 ms by bot id=1730744154
+2025-06-22 16:56:18 - aiogram.event - INFO - Update id=50703582 is handled. Duration 286 ms by bot id=1730744154
+2025-06-22 16:56:20 - aiogram.event - INFO - Update id=50703583 is handled. Duration 363 ms by bot id=1730744154
+2025-06-22 16:56:22 - aiogram.event - INFO - Update id=50703584 is handled. Duration 494 ms by bot id=1730744154
+2025-06-22 16:56:23 - aiogram.event - INFO - Update id=50703585 is handled. Duration 332 ms by bot id=1730744154
+2025-06-22 16:56:24 - aiogram.event - INFO - Update id=50703586 is handled. Duration 334 ms by bot id=1730744154
+2025-06-22 16:56:25 - aiogram.event - INFO - Update id=50703587 is handled. Duration 305 ms by bot id=1730744154
+2025-06-22 16:56:26 - aiogram.event - INFO - Update id=50703588 is handled. Duration 352 ms by bot id=1730744154
+2025-06-22 16:56:28 - aiogram.event - INFO - Update id=50703589 is handled. Duration 320 ms by bot id=1730744154
+2025-06-22 16:56:29 - aiogram.event - INFO - Update id=50703590 is handled. Duration 427 ms by bot id=1730744154
+2025-06-22 16:56:36 - aiogram.event - INFO - Update id=50703591 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 16:56:41 - aiogram.event - INFO - Update id=50703592 is handled. Duration 281 ms by bot id=1730744154
+2025-06-22 16:56:46 - aiogram.event - INFO - Update id=50703593 is handled. Duration 293 ms by bot id=1730744154
+2025-06-22 16:56:48 - aiogram.event - INFO - Update id=50703594 is handled. Duration 339 ms by bot id=1730744154
+2025-06-22 16:56:49 - aiogram.event - INFO - Update id=50703595 is handled. Duration 451 ms by bot id=1730744154
+2025-06-22 16:56:50 - aiogram.event - INFO - Update id=50703596 is handled. Duration 358 ms by bot id=1730744154
+2025-06-22 16:56:51 - aiogram.event - INFO - Update id=50703597 is handled. Duration 390 ms by bot id=1730744154
+2025-06-22 16:56:52 - aiogram.event - INFO - Update id=50703598 is handled. Duration 314 ms by bot id=1730744154
+2025-06-22 16:56:53 - aiogram.event - INFO - Update id=50703599 is handled. Duration 407 ms by bot id=1730744154
+2025-06-22 16:56:54 - aiogram.event - INFO - Update id=50703600 is handled. Duration 328 ms by bot id=1730744154
+2025-06-22 16:56:58 - aiogram.event - INFO - Update id=50703601 is handled. Duration 362 ms by bot id=1730744154
+2025-06-22 16:57:00 - aiogram.event - INFO - Update id=50703602 is handled. Duration 427 ms by bot id=1730744154
+2025-06-22 16:57:01 - aiogram.event - INFO - Update id=50703603 is handled. Duration 309 ms by bot id=1730744154
+2025-06-22 16:57:05 - aiogram.event - INFO - Update id=50703604 is handled. Duration 449 ms by bot id=1730744154
+2025-06-22 16:57:08 - aiogram.event - INFO - Update id=50703605 is handled. Duration 295 ms by bot id=1730744154
+2025-06-22 16:57:09 - aiogram.event - INFO - Update id=50703606 is handled. Duration 329 ms by bot id=1730744154
+2025-06-22 16:57:17 - aiogram.event - INFO - Update id=50703607 is handled. Duration 376 ms by bot id=1730744154
+2025-06-22 16:57:27 - aiogram.event - INFO - Update id=50703608 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 16:57:29 - aiogram.event - INFO - Update id=50703609 is not handled. Duration 7 ms by bot id=1730744154
+2025-06-22 16:57:32 - aiogram.event - INFO - Update id=50703610 is handled. Duration 300 ms by bot id=1730744154
+2025-06-22 16:57:36 - aiogram.event - INFO - Update id=50703611 is handled. Duration 436 ms by bot id=1730744154
+2025-06-22 16:57:37 - aiogram.event - INFO - Update id=50703612 is handled. Duration 404 ms by bot id=1730744154
+2025-06-22 16:57:39 - aiogram.event - INFO - Update id=50703613 is handled. Duration 272 ms by bot id=1730744154
+2025-06-22 16:57:47 - aiogram.event - INFO - Update id=50703614 is handled. Duration 743 ms by bot id=1730744154
+2025-06-22 16:57:49 - aiogram.event - INFO - Update id=50703615 is handled. Duration 137 ms by bot id=1730744154
